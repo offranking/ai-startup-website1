@@ -77,21 +77,57 @@ type "vim index.html" to open the file and " :wq " to exit the file and back to 
 
 run git branch
 
+
+
 <img width="497" alt="Screenshot 2025-06-28 at 12 15 27 pm" src="https://github.com/user-attachments/assets/13e4396c-32dd-4b99-9fde-f54a3d933ca1" />
 
+
+
 git status
+
 <img width="813" alt="Screenshot 2025-06-28 at 12 00 38 pm" src="https://github.com/user-attachments/assets/caf88da4-87ea-4529-98e0-4052d46e9269" />
 
+
+
 Use the command git add index.html to stage the changes you've made to the file
-<img width="817" alt="Screenshot 2025-06-28 at 12 04 26 pm" src="https://github.com/user-attachments/assets/6f18dc72-65aa-46d4-85bf-780dd31220af" />
 
 
+<img width="679" alt="Screenshot 2025-06-28 at 12 03 46 pm" src="https://github.com/user-attachments/assets/dcf21abd-0f17-4118-9c6d-dad92aac326a" />
 
 
+Follow by git commit "my first project"
+
+<img width="817" alt="Screenshot 2025-06-28 at 12 04 26 pm" src="https://github.com/user-attachments/assets/0b503675-70c2-4bfd-b2a9-72bedfca7854" />
+
+git push origin 
+
+<img width="685" alt="Screenshot 2025-06-28 at 12 05 36 pm" src="https://github.com/user-attachments/assets/e3046492-c989-4329-9c67-c311b4175505" />
+
+this is to show git checkout -b add-contact-info-1
+
+<img width="736" alt="Screenshot 2025-06-28 at 12 14 01 pm" src="https://github.com/user-attachments/assets/08a03640-ff22-4c00-925a-56edb41013b9" />
 
 
+<img width="497" alt="Screenshot 2025-06-28 at 12 15 27 pm" src="https://github.com/user-attachments/assets/08a6760d-18a4-47d9-ade1-996ec66a062e" />
 
 
+This is a new branch created for Jerry to make changes while keeping them separate from the main branch. Now, open the file index.html again using the command vim index.html, and add some text."
+
+<img width="953" alt="Screenshot 2025-06-28 at 12 17 32 pm" src="https://github.com/user-attachments/assets/28a9ef6a-13e9-4937-882f-f28c620296e5" />
+
+after stae jerry's change "git add index.html"
+
+<img width="544" alt="Screenshot 2025-06-28 at 12 18 44 pm" src="https://github.com/user-attachments/assets/74066267-7dac-4d37-8526-5a9157bfaaab" />
 
 
+<img width="588" alt="Screenshot 2025-06-28 at 12 19 37 pm" src="https://github.com/user-attachments/assets/151e070e-606f-42c8-a841-0625aa849eb9" />
 
+commit jerry's change git "run command git commit "this is jerry's change" 
+<img width="817" alt="Screenshot 2025-06-28 at 12 22 08 pm" src="https://github.com/user-attachments/assets/402dae00-7010-46d8-b35f-46fe04599539" />
+
+then after save jerry's change in the brach history with a message you have to push jerrys branch on the git 
+
+by running git push origin add-contact-info-1 on the terminal 
+
+
+<img width="931" alt="Screenshot 2025-06-28 at 12 30 28 pm" src="https://github.com/user-attachments/assets/0177a7e3-0572-46b0-9950-6d45c044965d" />
