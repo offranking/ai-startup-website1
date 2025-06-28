@@ -41,6 +41,43 @@ Enter your email address, choose a password, create a username, and then click '
 
 <img width="648" alt="Screenshot 2025-06-28 at 2 14 04 pm" src="https://github.com/user-attachments/assets/e8f8451c-c22e-4abf-bb65-79b2644e150e" />
 
+"Your GitHub account has now been successfully created."
+
+
+
+<img width="760" alt="Screenshot 2025-06-28 at 2 18 59 pm" src="https://github.com/user-attachments/assets/a4f3d70d-9e89-4bdc-b041-b1c775dd52c8" />
+
+Now that your GitHub account has been successfully created, you can proceed to create a new repository.
+
+<img width="718" alt="Screenshot 2025-06-28 at 11 41 13 am" src="https://github.com/user-attachments/assets/bc2ea527-153e-48ca-9ad7-6ad26db54054" />
+
+Name your repository (ai-startup-website-1) and also initialize with your README file.
+
+<img width="1114" alt="Screenshot 2025-06-28 at 11 45 33 am" src="https://github.com/user-attachments/assets/7487396e-f248-46ca-91e9-03d554b57180" />
+
+On your repository page on GitHub, click the 'Code' button and copy the HTTPS URL provided.
+
+
+<img width="916" alt="Screenshot 2025-06-28 at 11 47 16 am" src="https://github.com/user-attachments/assets/77632b18-62c1-4ca3-bb18-ed9c8aebb551" />
+
+Now, open your local terminal or command prompt, create a folder named git-project-1, and navigate into that directory.
+
+
+<img width="819" alt="Screenshot 2025-06-28 at 11 53 30 am" src="https://github.com/user-attachments/assets/3588746e-1ea9-415b-8216-f20b94a212bf" />
+
+Next, create a file and add some text. Start by running the command touch index.html to create the file. Then, open it with vim index.html so you can type your comments inside
+
+<img width="499" alt="Screenshot 2025-06-28 at 11 59 00 am" src="https://github.com/user-attachments/assets/4f9adc7f-b5f5-466f-a147-371c92d7b9ab" />
+
+type "vim index.html" to open the file and " :wq " to exit the file and back to terminal
+
+
+<img width="1363" alt="Screenshot 2025-06-28 at 11 58 10 am" src="https://github.com/user-attachments/assets/05b40711-ea64-4bf8-ae6f-cda85d31bbb4" />
+
+
+
+
+
 
 
 
