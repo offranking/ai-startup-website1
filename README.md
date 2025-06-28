@@ -75,6 +75,15 @@ type "vim index.html" to open the file and " :wq " to exit the file and back to 
 <img width="1363" alt="Screenshot 2025-06-28 at 11 58 10 am" src="https://github.com/user-attachments/assets/05b40711-ea64-4bf8-ae6f-cda85d31bbb4" />
 
 
+run git branch
+
+<img width="497" alt="Screenshot 2025-06-28 at 12 15 27 pm" src="https://github.com/user-attachments/assets/13e4396c-32dd-4b99-9fde-f54a3d933ca1" />
+
+git status
+<img width="813" alt="Screenshot 2025-06-28 at 12 00 38 pm" src="https://github.com/user-attachments/assets/caf88da4-87ea-4529-98e0-4052d46e9269" />
+
+Use the command git add index.html to stage the changes you've made to the file
+<img width="817" alt="Screenshot 2025-06-28 at 12 04 26 pm" src="https://github.com/user-attachments/assets/6f18dc72-65aa-46d4-85bf-780dd31220af" />
 
 
 
